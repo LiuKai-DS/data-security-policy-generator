@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41008ef8-8eeb-4f52-8a6c-51ada2bf9c57" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/SKILL.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/SKILL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/references/01_strategy_catalog.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/references/01_strategy_catalog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/references/04_bu_keywords.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/references/04_bu_keywords.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/references/05_keyword_taxonomy.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-security-policy-generator-v1.2-release/references/05_keyword_taxonomy.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/data-security-policy-generator-v1.2-release" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3ChrYnpLqeZdE3JixV4w43ZWLUc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/law42pulse/WorkBuddy/20260410110313/data-security-policy-generator-v1.2-release"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="41008ef8-8eeb-4f52-8a6c-51ada2bf9c57" name="更改" comment="" />
+      <created>1776848692324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776848692324</updated>
+    </task>
+    <servers />
+  </component>
+</project>
