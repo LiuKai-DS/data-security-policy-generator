@@ -19,11 +19,11 @@
 
 ### 安装
 
-1. 下载 `data-security-policy-generator-v1.2-release.zip`
+1. 下载 `data-security-policy-generator-v2.0-release.zip`
 2. 解压到 WorkBuddy Skills 目录：
 
 ```bash
-unzip data-security-policy-generator-v1.2-release.zip \
+unzip data-security-policy-generator-v2.0-release.zip \
   -d ~/.workbuddy/skills/data-security-policy-generator/
 ```
 
